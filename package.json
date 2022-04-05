@@ -11,6 +11,7 @@
   "scripts": {
     "build": "webpack",
     "watch": "webpack -w",
-    "start": "http-server"
+    "start": "http-server",
+    "serve": "live-server"
   }
 }
