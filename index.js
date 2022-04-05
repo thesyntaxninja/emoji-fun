@@ -1,4 +1,3 @@
-// Make the pop and shift buttons work as well
 const myEmojis = ["👨‍💻", "⛷", "🍲"]
 const emojiContainer = document.getElementById("emoji-container")
 const emojiInput = document.getElementById("emoji-input")
